@@ -1,6 +1,6 @@
 # INFO-441 Server-Side Development
 
-This is the homepage for the [UW iSchool](https://ischool.uw.edu/) Winter 2021 Server-side development course.
+This is the homepage for the [UW iSchool](https://ischool.uw.edu/) Spring 2021 Server-side development course.
 
 Dive deeply into the world of server-side development. Build your own web application. Deploy it to the cloud. Authenticate users. Authorize and validate persistent data. Build retrieval indexes for fast searching. Notify clients of changes in real-time. Extend your system with a microservice architecture. Put it all together in a sophisticated web applications.
 
@@ -16,9 +16,7 @@ TA's: Jill Nguyen, Nam Pham
 Office: Online!
 
 
-Office Hours: 
-
-&nbsp;&nbsp;&nbsp;&nbsp;Kyle: Thursdays, 9-10am, https://washington.zoom.us/j/95899770442 Or email or message me to schedule separately
+Office Hours: TBD
 
 &nbsp;&nbsp;&nbsp;&nbsp;Jill: TBD
 
@@ -34,6 +32,7 @@ Below, are the contents for each class day.
 
 | Date   | Material |
 | :----: | -------- |
+<!---
 | 1/4 | Welcome to the Server-Side |
 | |<a href="https://drstearns.github.io/tutorials/http/">The HyperText Transfer Protocol</a>|
 | |<a href="https://drstearns.github.io/tutorials/env/">Environment Variables</a>|
@@ -90,7 +89,6 @@ Below, are the contents for each class day.
 | |<a class="inline_disabled"  href="https://youtu.be/1wiMLkXz26M">Migrating to Microservices Talk</a> by Adrian Cockcroft|
 | |<a href="https://golang.org/pkg/net/http/httputil/#ReverseProxy">httputil.ReverseProxy</a>|
 | |[!!Exercise (microservices)](https://classroom.github.com/a/TcvFK8fw)|
-<!---
 | 11/11 | No class - Veteran's Day |
 | 11/16 | Present / Review Proposals |
 | 11/18 | Message Queues |
