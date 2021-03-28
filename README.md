@@ -30,6 +30,8 @@ All communication should happen through [Canvas](https://canvas.uw.edu/courses/1
 
 Below, are the contents for each class day.
 
+(coming soon)
+
 | Date   | Material |
 | :----: | -------- |
 <!---
