@@ -30,11 +30,8 @@ All communication should happen through [Canvas](https://canvas.uw.edu/courses/1
 
 Below, are the contents for each class day.
 
-(coming soon)
-
 | Date   | Material |
 | :----: | -------- |
-
 | 3/30 | Welcome to the Server-Side |
 | |<a href="https://drstearns.github.io/tutorials/http/">The HyperText Transfer Protocol</a>|
 | |<a href="https://drstearns.github.io/tutorials/env/">Environment Variables</a>|
