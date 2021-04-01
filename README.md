@@ -37,15 +37,15 @@ Below, are the contents for each class day.
 | |<a href="https://drstearns.github.io/tutorials/env/">Environment Variables</a>|
 | |<a href="https://drstearns.github.io/tutorials/gointro/">Introduction to Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/golang/">The Go Language</a>|
-<!---
-| 1/6 | Go Web Services
+| 4/1 | Go Web Services
 | |<a href="https://drstearns.github.io/tutorials/goslicemap/">Go Slices and Maps</a>|
 | |<a href="https://drstearns.github.io/tutorials/goweb/">Go Web Servers</a>|
 | |<a href="https://drstearns.github.io/tutorials/cors/">Cross-Origin Resource Sharing</a>|
 | |<a href="https://drstearns.github.io/tutorials/gojson/">Go Structs and JSON</a>|
 | |<a href="https://drstearns.github.io/tutorials/tokenizing/">Tokenizing HTML Streams</a>|
-| |[!! Assignment (summary branch)](https://classroom.github.com/a/hEnxptt_)|
-| |[!! Exercise](https://classroom.github.com/a/TcvFK8fw) - helloworld|
+| |[!! Assignment (summary branch)](https://classroom.github.com/a/1aqME91B)|
+| |[!! Exercise](https://classroom.github.com/a/Ks8MXsWb) - helloworld|
+<!---
 | 1/11 | Docker |
 | |<a href="https://drstearns.github.io/tutorials/docker/">Containerizing with Docker</a>|
 | |<a href="https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/">Dockerfile Best Practices</a>|
