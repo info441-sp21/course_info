@@ -55,28 +55,28 @@ Below, are the contents for each class day.
 | |<a href="https://drstearns.github.io/tutorials/deploy2do/">Deploying to Digital Ocean</a>|
 | |<a href="https://drstearns.github.io/tutorials/deploy2aws/">Deploying to Amazon Web Services (AWS)</a>|
 | |<a href="https://blog.golang.org/cover">The Cover Story</a>|
-| |[!! Exercise (deploy)](https://classroom.github.com/a/TcvFK8fw)
+| |[!! Exercise (deploy)](https://classroom.github.com/a/Ks8MXsWb)
 <!---
 | 1/25 | Automated Tests |
 | |<a href="https://drstearns.github.io/tutorials/testing/">Automated Testing in Go</a>| 
 | |CORS slides: <a href="slides/lecture%20-%20CORS.pptx">pptx</a>, <a href="slides/lecture%20-%20CORS.pdf">pdf</a>|
-| |[!!Exercise (testing)](https://classroom.github.com/a/TcvFK8fw)|
+| |[!!Exercise (testing)](https://classroom.github.com/a/Ks8MXsWb)|
 | 1/27 | Tracking Sessions |
 | |<a href="https://drstearns.github.io/tutorials/sessions/">Tracking Sessions</a>|
 | |<a href="https://redis.io/topics/data-types-intro">Redis Datatypes</a>|
 | |<a href="https://docs.docker.com/engine/tutorials/networkingcontainers/">Docker Networks</a>|
 | |Docker Network slides: <a href="slides/lecture%20-%20Docker%20Networks.pptx">pptx</a>, <a href="slides/lecture%20-%20Docker%20Networks.pdf">pdf</a>|
-| |[!!Exercise (hmac)](https://classroom.github.com/a/TcvFK8fw)|
+| |[!!Exercise (hmac)](https://classroom.github.com/a/Ks8MXsWb)|
 | 1/20 | Catch-Up |
 | 2/1 | Authentication / Persisting Data |
 | |<a href="https://drstearns.github.io/tutorials/godb/">Talking to Databases from Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/gohandlerctx/">Sharing Values with Go Handlers</a>|
 | |<a href="https://drstearns.github.io/tutorials/authentication/">Authenticating Users</a>|
-| |[!!Exercise (postman)](https://classroom.github.com/a/TcvFK8fw)|
+| |[!!Exercise (postman)](https://classroom.github.com/a/Ks8MXsWb)|
 | 2/3 | REST APIs + Middleware |
 | |<a href="https://drstearns.github.io/tutorials/gomiddleware/">Middleware Patterns in Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/rest/">REST APIs</a>|
-| |[!!Exercise (middleware)](https://classroom.github.com/a/TcvFK8fw)|
+| |[!!Exercise (middleware)](https://classroom.github.com/a/Ks8MXsWb)|
 | 2/8 | Protecting Data Structures |			
 | |<a href="https://drstearns.github.io/tutorials/mutexes/">Protecting Data Structures with Mutexes</a>|
 | 2/10 | Node.js|
@@ -88,7 +88,7 @@ Below, are the contents for each class day.
 | |<a class="inline_disabled"  href="https://youtu.be/5qJ_BibbMLw">Fast Delivery Talk</a> by Adrian Cockcroft|
 | |<a class="inline_disabled"  href="https://youtu.be/1wiMLkXz26M">Migrating to Microservices Talk</a> by Adrian Cockcroft|
 | |<a href="https://golang.org/pkg/net/http/httputil/#ReverseProxy">httputil.ReverseProxy</a>|
-| |[!!Exercise (microservices)](https://classroom.github.com/a/TcvFK8fw)|
+| |[!!Exercise (microservices)](https://classroom.github.com/a/Ks8MXsWb)|
 | 11/11 | No class - Veteran's Day |
 | 11/16 | Present / Review Proposals |
 | 11/18 | Message Queues |
