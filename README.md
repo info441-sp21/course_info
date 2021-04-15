@@ -60,13 +60,13 @@ Below, are the contents for each class day.
 | |<a href="https://drstearns.github.io/tutorials/testing/">Automated Testing in Go</a>| 
 | |CORS slides: <a href="slides/lecture%20-%20CORS.pptx">pptx</a>, <a href="slides/lecture%20-%20CORS.pdf">pdf</a>|
 | |[!!Exercise (testing)](https://classroom.github.com/a/Ks8MXsWb)|
-<!---
-| 1/27 | Tracking Sessions |
+| 4/15 | Tracking Sessions |
 | |<a href="https://drstearns.github.io/tutorials/sessions/">Tracking Sessions</a>|
 | |<a href="https://redis.io/topics/data-types-intro">Redis Datatypes</a>|
 | |<a href="https://docs.docker.com/engine/tutorials/networkingcontainers/">Docker Networks</a>|
 | |Docker Network slides: <a href="slides/lecture%20-%20Docker%20Networks.pptx">pptx</a>, <a href="slides/lecture%20-%20Docker%20Networks.pdf">pdf</a>|
 | |[!!Exercise (hmac)](https://classroom.github.com/a/Ks8MXsWb)|
+<!---
 | 1/20 | Catch-Up |
 | 2/1 | Authentication / Persisting Data |
 | |<a href="https://drstearns.github.io/tutorials/godb/">Talking to Databases from Go</a>|
