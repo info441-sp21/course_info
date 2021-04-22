@@ -67,13 +67,13 @@ Below, are the contents for each class day.
 | |Docker Network slides: <a href="slides/lecture%20-%20Docker%20Networks.pptx">pptx</a>, <a href="slides/lecture%20-%20Docker%20Networks.pdf">pdf</a>|
 | |[!!Exercise (hmac)](https://classroom.github.com/a/Ks8MXsWb)|
 | 4/20 | Catch-Up |
-<!---
-| 2/1 | Authentication / Persisting Data |
+| 4/22 | Authentication / Persisting Data |
 | |<a href="https://drstearns.github.io/tutorials/godb/">Talking to Databases from Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/gohandlerctx/">Sharing Values with Go Handlers</a>|
 | |<a href="https://drstearns.github.io/tutorials/authentication/">Authenticating Users</a>|
 | |[!!Exercise (postman)](https://classroom.github.com/a/Ks8MXsWb)|
-| 1/20 | Catch-Up |
+<!---
+| 4/27 | Catch-Up |
 | 2/3 | REST APIs + Middleware |
 | |<a href="https://drstearns.github.io/tutorials/gomiddleware/">Middleware Patterns in Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/rest/">REST APIs</a>|
