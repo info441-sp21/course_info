@@ -72,8 +72,8 @@ Below, are the contents for each class day.
 | |<a href="https://drstearns.github.io/tutorials/gohandlerctx/">Sharing Values with Go Handlers</a>|
 | |<a href="https://drstearns.github.io/tutorials/authentication/">Authenticating Users</a>|
 | |[!!Exercise (postman)](https://classroom.github.com/a/Ks8MXsWb)|
-<!---
 | 4/27 | Catch-Up |
+<!---
 | 2/3 | REST APIs + Middleware |
 | |<a href="https://drstearns.github.io/tutorials/gomiddleware/">Middleware Patterns in Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/rest/">REST APIs</a>|
