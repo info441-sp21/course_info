@@ -73,11 +73,11 @@ Below, are the contents for each class day.
 | |<a href="https://drstearns.github.io/tutorials/authentication/">Authenticating Users</a>|
 | |[!!Exercise (postman)](https://classroom.github.com/a/Ks8MXsWb)|
 | 4/27 | Catch-Up |
-<!---
-| 2/3 | REST APIs + Middleware |
+| 4/29 | REST APIs + Middleware |
 | |<a href="https://drstearns.github.io/tutorials/gomiddleware/">Middleware Patterns in Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/rest/">REST APIs</a>|
 | |[!!Exercise (middleware)](https://classroom.github.com/a/Ks8MXsWb)|
+<!---
 | 2/8 | Protecting Data Structures |			
 | |<a href="https://drstearns.github.io/tutorials/mutexes/">Protecting Data Structures with Mutexes</a>|
 | 2/10 | Node.js|
