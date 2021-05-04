@@ -77,9 +77,9 @@ Below, are the contents for each class day.
 | |<a href="https://drstearns.github.io/tutorials/gomiddleware/">Middleware Patterns in Go</a>|
 | |<a href="https://drstearns.github.io/tutorials/rest/">REST APIs</a>|
 | |[!!Exercise (middleware)](https://classroom.github.com/a/Ks8MXsWb)|
-<!---
-| 2/8 | Protecting Data Structures |			
+| 5/4 | Protecting Data Structures |			
 | |<a href="https://drstearns.github.io/tutorials/mutexes/">Protecting Data Structures with Mutexes</a>|
+<!---
 | 2/10 | Node.js|
 | |<a href="https://drstearns.github.io/tutorials/nodeweb/">Node.js Microservices</a>|
 | |<a href="https://expressjs.com/en/starter/basic-routing.html">Express.js Basic Routing</a>|
