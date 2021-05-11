@@ -83,13 +83,13 @@ Below, are the contents for each class day.
 | |<a href="https://drstearns.github.io/tutorials/nodeweb/">Node.js Microservices</a>|
 | |<a href="https://expressjs.com/en/starter/basic-routing.html">Express.js Basic Routing</a>|
 | |<a href="https://github.com/mysqljs/mysql/blob/master/Readme.md">Node.js MySQL Driver Overview</a>|
-<!---
-| 2/17 | Microservices|
+| 5/11 | Microservices|
 | |<a href="https://www.nginx.com/blog/introduction-to-microservices/">NGINX 7-Part article series on Microservices</a>|
 | |<a class="inline_disabled"  href="https://youtu.be/5qJ_BibbMLw">Fast Delivery Talk</a> by Adrian Cockcroft|
 | |<a class="inline_disabled"  href="https://youtu.be/1wiMLkXz26M">Migrating to Microservices Talk</a> by Adrian Cockcroft|
 | |<a href="https://golang.org/pkg/net/http/httputil/#ReverseProxy">httputil.ReverseProxy</a>|
-| |[!!Exercise (microservices)](https://classroom.github.com/a/Ks8MXsWb)|
+<!---| |[!!Exercise (microservices)](https://classroom.github.com/a/Ks8MXsWb)|-->
+<!---
 | 11/11 | No class - Veteran's Day |
 | 11/16 | Present / Review Proposals |
 | 11/18 | Message Queues |
